@@ -1,7 +1,7 @@
-apples
-berries
 cherries
 bananas
 kiwis
 strawberries
 mangoes
+berries
+apples
